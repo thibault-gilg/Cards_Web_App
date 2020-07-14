@@ -1,0 +1,74 @@
+1
+2
+Card Name : Shen
+ Card Description : 
+ 
+
+
+Card Name : Quinn
+ Card Description : 
+ 
+
+
+Card Name : Lulu
+ Card Description : 
+ 
+
+
+Card Name : Ziggs
+ Card Description : 
+ 
+
+
+Card Name : DrMundo
+ Card Description : 
+ 
+
+
+Card Name : TahmKench
+ Card Description : 
+ 
+
+
+Card Name : Ahri
+ Card Description : 
+ 
+
+
+Card Name : Thresh
+ Card Description : 
+ 
+
+
+Card Name : Shen
+ Card Description : 
+ 
+
+
+Card Name : Gangplank
+ Card Description : 
+ 
+
+
+[Card Name : Shen
+ Card Description : 
+ 
+, Card Name : Quinn
+ Card Description : 
+ 
+, Card Name : Lulu
+ Card Description : 
+ 
+, Card Name : Ziggs
+ Card Description : 
+ 
+, Card Name : DrMundo
+ Card Description : 
+ 
+]
+[2m2020-05-26 11:53:43.780[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36minMXBeanRegistrar$SpringApplicationAdmin[0;39m [2m:[0;39m Application shutdown requested.
+[2m2020-05-26 11:53:43.782[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36mo.s.s.concurrent.ThreadPoolTaskExecutor [0;39m [2m:[0;39m Shutting down ExecutorService 'applicationTaskExecutor'
+[2m2020-05-26 11:53:43.786[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Closing JPA EntityManagerFactory for persistence unit 'default'
+[2m2020-05-26 11:53:43.791[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36m.SchemaDropperImpl$DelayedDropActionImpl[0;39m [2m:[0;39m HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[2m2020-05-26 11:53:43.796[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Shutdown initiated...
+[2m2020-05-26 11:53:43.811[0;39m [32m INFO[0;39m [35m21130[0;39m [2m---[0;39m [2m[on(3)-127.0.0.1][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Shutdown completed.
